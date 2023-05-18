@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&family=PT+Sans&family=Playfair+Display&display=swap");
+
+#page-head {
+  padding: 3% 0;
+  background-color: #2bcbba;
+}
+
+.Black-panel {
+  background-color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: "PT Sans", sans-serif;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 3.5rem;
+  font-weight: bold;
+  line-height: 1.8;
+}
+
+/* NAVIGATION BAR */
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Playfair Display", serif;
+  font-size: 2.8rem;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* Header */
+
+.download-button {
+  margin: 40px 5px;
+}
+
+.header-img {
+  width: 35rem;
+  transform: rotate(25deg);
+  position: relative;
+  left: 125px;
+  top: 50px;
+}
+
+/* Main */
+/* Platforms */
+.platforms {
+  text-align: center;
+  padding: 100px 0px;
+}
+
+.platform-icon {
+  margin-bottom: 30px;
+  color: #2bcbba;
+}
+
+.platform-icon:hover {
+  color: #0fb9b1;
+}
+
+/*Reviews*/
+
+.reviews {
+  background-color: #2bcbba;
+  padding: 80px 0;
+  color: #ffffff;
+}
+
+.review-image {
+  border-radius: 50%;
+  width: 125px;
+  margin-right: 20px;
+}
+
+.review-text {
+  font-size: 2rem;
+  margin-bottom: 50px;
+}
+
+.Reviews-name {
+  font-size: 1.2rem;
+  margin-bottom: 0;
+}
+
+.cards {
+  padding: 80px 0;
+}
+
+.card {
+  margin: 20px;
+}
+
+.download {
+  background-color: #2bcbba;
+  padding: 80px 0;
+  color: #ffffff;
+}
+
+.download-text {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+footer {
+  padding: 80px 0;
+}
+
+.social-media-icons {
+  font-size: 20px;
+  margin: 20px;
+}
+
+.copyright-text {
+  margin-top: 10px;
+}
